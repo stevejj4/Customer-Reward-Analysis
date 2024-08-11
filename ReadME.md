@@ -1,7 +1,7 @@
-Project Title:
+## Project Title:
 Customer Interaction Analysis for Cafe Rewards Program
 
-1. Introduction
+# 1. Introduction
 Project Overview: Analyze customer interactions with the Cafe Rewards program to derive actionable insights on customer behavior, offer effectiveness, and transaction patterns.
 Objectives:
 Understand customer behavior across different offers.
