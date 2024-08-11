@@ -4,9 +4,9 @@
 ### Project Overview: 
 Analyze customer interactions with the Cafe Rewards program to derive actionable insights on customer behavior, offer effectiveness, and transaction patterns.
 ### Objectives:
-Understand customer behavior across different offers.
-Identify key drivers for offer completion and transaction volume.
-Segment customers based on interaction patterns.
+ Understand customer behavior across different offers.
+ Identify key drivers for offer completion and transaction volume.
+ * Segment customers based on interaction patterns.
 Provide actionable recommendations for optimizing the rewards program.
 2. Problem Statement
 Current Challenge:
